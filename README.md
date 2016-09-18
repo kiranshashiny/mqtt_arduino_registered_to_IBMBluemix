@@ -25,3 +25,4 @@
 
     This should render the data on your laptop.
 
+![alt tag](https://cloud.githubusercontent.com/assets/14288989/18617192/99fdca46-7de7-11e6-9a0f-cd8b9d29bde8.png)
